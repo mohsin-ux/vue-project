@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { read, utils, writeFile } from "xlsx";
+import {  utils, writeFile } from "xlsx";
 
 const { data } = defineProps<{
   data: any[];
@@ -19,7 +19,6 @@ function exportToExcel() {
 
     alert("Excel file downloaded successfully!");
   } catch (error) {
-    console.error("Error exporting the file:", error);
     alert("An error occurred while exporting the Excel file.");
   }
 }
