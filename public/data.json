@@ -1,0 +1,76 @@
+{
+  "success": true,
+  "message": "Account statement retrieved successfully.",
+  "data": [
+    {
+      "dated": "11-Sep-2024",
+      "remarks": "PREVIOUS BALANCE BEFORE 2024-09-12",
+      "debit": 0,
+      "credit": 0,
+      "balance": 0
+    },
+    {
+      "dated": "12-Sep-2024",
+      "remarks": "Bank Deposit",
+      "debit": "100.00",
+      "credit": "32000.00",
+      "balance": 31900
+    },
+    {
+      "dated": "12-Sep-2024",
+      "remarks": "Bank Transfer",
+      "debit": "0.00",
+      "credit": "400.00",
+      "balance": 32300
+    },
+    {
+      "dated": "13-Sep-2024",
+      "remarks": "Office Rent",
+      "debit": "1000.00",
+      "credit": "0.00",
+      "balance": 31300
+    },
+    {
+      "dated": "14-Sep-2024",
+      "remarks": "Utility Bill",
+      "debit": "300.00",
+      "credit": "0.00",
+      "balance": 31000
+    },
+    {
+      "dated": "15-Sep-2024",
+      "remarks": "Client Payment",
+      "debit": "0.00",
+      "credit": "1500.00",
+      "balance": 32500
+    },
+    {
+      "dated": "16-Sep-2024",
+      "remarks": "Travel Expenses",
+      "debit": "500.00",
+      "credit": "0.00",
+      "balance": 32000
+    },
+    {
+      "dated": "17-Sep-2024",
+      "remarks": "Stationery Purchase",
+      "debit": "200.00",
+      "credit": "0.00",
+      "balance": 31800
+    },
+    {
+      "dated": "18-Sep-2024",
+      "remarks": "Miscellaneous Income",
+      "debit": "0.00",
+      "credit": "700.00",
+      "balance": 32500
+    },
+    {
+      "dated": "Total:",
+      "remarks": "",
+      "debit": 2100,
+      "credit": 34600,
+      "balance": null
+    }
+  ]
+}
