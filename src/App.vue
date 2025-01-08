@@ -29,7 +29,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <main class="p-8">
+  <main class="p-8 h-screen bg-gradient-to-br from-blue-500 via-indigo-500 to-purple-500 text-white">
     <div
       v-if="isLoading"
       class="flex items-center justify-center h-screen w-full text-lg font-semibold mt-4"
